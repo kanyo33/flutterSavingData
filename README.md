@@ -1,6 +1,6 @@
 # wordgen
 
-A new Flutter project.
+Simple display of how to save data in flutter and pass it to a different page.
 
 ## Getting Started
 
